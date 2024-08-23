@@ -13,4 +13,4 @@ Implementing some papers/concepts from scratch and learning more modern things.
 - [ ] Expecetation maximization related ideas
 - [ ] DDPM
 - [ ] Tree-diffusion
-- [ ] 
+
